@@ -2,9 +2,7 @@
 
 
 
-<div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
-</div>
+
 
 ## What it is
 
